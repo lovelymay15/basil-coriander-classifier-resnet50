@@ -17,6 +17,10 @@ The dataset is compiled from multiple sources:
 
 Images were cleaned, labeled, and augmented before training.
 
+Dataset Link:
+```
+https://www.kaggle.com/datasets/duhnesslove/basil-coriander-dataset
+
 ## Model
 - Architecture: ResNet50 (pretrained backbone)
 - Framework: PyTorch
